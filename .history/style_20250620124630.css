@@ -4,6 +4,7 @@ body{
 
 .section-tittle{
     font-family: Bungee;
+    color: #fff;
 }
 
 #header{
@@ -13,9 +14,4 @@ body{
 #header .nav .nav-link.active{
     background-color: #fff;
     color: #182c61;
-}
-
-#header .nav .nav-link,
-.section-tittle{
-    color: #fff;
 }
