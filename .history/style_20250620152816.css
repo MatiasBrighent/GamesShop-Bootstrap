@@ -49,12 +49,5 @@ header h1{
 .produto:hover{
     box-shadow: 0 0 10px rgba(81, 128, 228, 0.2);
     border: 1px solid #3564ca;
-    border-radius: 4px;
-}
-
-
-@media (max-width:767px) {
-    .carousel-item img{
-        height: 280px;
-    }
+    border-radius: 2px;
 }

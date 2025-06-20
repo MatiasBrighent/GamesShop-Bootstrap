@@ -7,17 +7,13 @@ header h1{
     color: #fff;
 }
 
-.section-title{
-    font-family: Bungee;
-    color: #fff;
-    background-color: #182c61;
-}
-
-.title{
+.tittle{
     font-family: Bungee;
     color: #182c61;
     border-bottom: 2px solid #3564ca;
 }
+
+
 
 .text-colored{
     color: #182c61;
@@ -46,15 +42,3 @@ header h1{
     height: 800px;
 }
 
-.produto:hover{
-    box-shadow: 0 0 10px rgba(81, 128, 228, 0.2);
-    border: 1px solid #3564ca;
-    border-radius: 4px;
-}
-
-
-@media (max-width:767px) {
-    .carousel-item img{
-        height: 280px;
-    }
-}
