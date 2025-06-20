@@ -2,20 +2,13 @@ body{
     font-family: Roboto, sans-serif;
 }
 
-header h1{
-    font-family: Bungee;
-    color: #fff;
-}
 .section-tittle{
     font-family: Bungee;
-    color: #182c61;
-    border-bottom: 2px solid #3564ca;
 }
 
 .text-colored{
     color: #182c61;
 }
-
 
 #header{
     background-color: #182c61;
