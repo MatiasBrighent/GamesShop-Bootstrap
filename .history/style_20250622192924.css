@@ -61,7 +61,7 @@ header h1{
     color: #fff;
 
     &:hover{
-        background-color: #3564ca;
+        color: #3564ca;
     }
 }
 
